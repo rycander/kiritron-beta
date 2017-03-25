@@ -15,8 +15,8 @@ client.on('message', (message) => {
   }
 });
 
-prep() {
-  let channel = client.channels.find('name', 'general');
+// prep() {
+//   let channel = client.channels.find('name', 'general');
 
-}
+// }
 
