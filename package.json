@@ -3,6 +3,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": "v7.3.0"
+  },
   "dependencies": {
     "discord.js": "^11.0.0",
     "node-schedule": "^1.2.1",
